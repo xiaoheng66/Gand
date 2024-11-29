@@ -1,0 +1,8 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+yuhengapi:
+  client:
+    access-key:
+    secret-key:
