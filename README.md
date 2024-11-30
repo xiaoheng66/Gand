@@ -31,11 +31,3 @@ This platform is an API management system built using **SpringBoot**, **Mybatis*
 ### Notes
 
 - The SDK has not been uploaded to the **Maven repository**, so you need to manually package the SDK module to your local repository before running the project.
-
----
-
-## 💻 安装与使用
-
-1. 克隆本项目到本地：  
-   ```bash
-   git clone https://github.com/yourusername/projectname.git
