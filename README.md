@@ -12,8 +12,8 @@ This platform is an API management system built using **SpringBoot**, **Mybatis*
 
 1. **前端请求 `proj` 模块**  
 2. `proj` 模块通过 **SDK** 与 **反射技术** 调用接口。  
-3. SDK 在接口调用逻辑中，向 **GateWay** 模块发送请求。  
-4. **GateWay** 模块进行鉴权后，将请求转发到真正提供接口服务的 **Interface** 模块。
+3. SDK 在接口调用逻辑中，向 `GateWay` 模块发送请求。  
+4. `GateWay` 模块进行鉴权后，将请求转发到真正提供接口服务的 `Interface` 模块。
 
 ### Module Calling Flow
 
